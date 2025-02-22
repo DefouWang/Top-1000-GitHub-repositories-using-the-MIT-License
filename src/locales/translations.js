@@ -1,6 +1,6 @@
 export const translations = {
   en: {
-    title: 'GitHub MIT Licensed Repositories',
+    title: 'Top 1000 GitHub repositories using the MIT license',
     description: 'Discover and explore high-quality MIT licensed open source projects on GitHub to enhance your development journey',
     searchPlaceholder: 'Search repository name or description...press Enter to confirm',
     reposFound: 'repositories found',
@@ -25,7 +25,7 @@ export const translations = {
     copyright: '© {year} GitHub MIT Repos Explorer. All rights reserved.'
   },
   zh: {
-    title: 'GitHub MIT 许可证仓库展示',
+    title: '使用 MIT 许可证的前1000个GitHub仓库',
     description: '发现并探索GitHub上优质的MIT许可证开源项目，助力您的开发之旅',
     searchPlaceholder: '搜索仓库名称或描述...按回车确认',
     reposFound: '个仓库',
